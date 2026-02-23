@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "418ab5d2-49db-49d7-b089-65728890cb77"
+      }
+    },
+    "owner": "brito.dev",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/418ab5d2-49db-49d7-b089-65728890cb77"
     }
   }
 }
